@@ -1164,10 +1164,10 @@ footer {
         width: 100%;
     }
       .project-vidbox video {
-        height: 100%;
-        width: 45vh;
+         height: 30vh;
+        width: 80vw;
         object-fit: cover;
-    }
+      }
 
     .project-info {
         text-align: center;
