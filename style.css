@@ -1165,7 +1165,7 @@ footer {
     }
       .project-vidbox video {
          height: 30vh;
-        width: 80vw;
+        width: 90vw;
         object-fit: cover;
       }
 
